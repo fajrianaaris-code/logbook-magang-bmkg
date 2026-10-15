@@ -4,7 +4,7 @@
 // Bentuknya: https://script.google.com/macros/s/XXXX/exec  (harus berakhiran /exec)
 // ==========================================================
 const API_URL =
-  "https://script.google.com/macros/s/AKfycbzSRkLyYQWCWLlp-D_1wDMd1BOa8aR4YR5XNPD8H8nBGwoukhWOF-zX-CxRQvYAdHE/exec";
+  "https://script.google.com/macros/s/AKfycbzIS-UUyRfUXww6lhK2E-A51tSB704RkeaeWlHKXRhegoJ5pF-OCR_rJeJniwfFtpry/exec";
 
 const PESAN_API_URL =
   "API_URL belum benar. Isi dengan URL web app Apps Script yang berakhiran /exec (Deploy → Manage deployments).";
