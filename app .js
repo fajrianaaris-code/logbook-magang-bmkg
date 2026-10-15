@@ -2,7 +2,7 @@
 // >>> GANTI DI SINI SAJA <<<
 // Isi dengan "Web app URL" hasil Deploy Apps Script milik Anda.
 // Bentuknya: https://script.google.com/macros/s/XXXX/exec  (harus berakhiran /exec)
-// ==========================================================
+// =========================================================
 const API_URL =
   "https://script.google.com/macros/s/AKfycbzIS-UUyRfUXww6lhK2E-A51tSB704RkeaeWlHKXRhegoJ5pF-OCR_rJeJniwfFtpry/exec";
 
